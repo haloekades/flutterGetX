@@ -25,23 +25,8 @@ dependencies:
   http: ^0.13.6
 ```
 
-## 📁 Folder Structure
-lib/
-├── controllers/
-│   └── news_controller.dart
-├── models/
-│   └── news_model.dart
-├── pages/
-│   ├── home_page.dart
-│   └── detail_page.dart
-└── main.dart
-
 ## 🔗 API Used
 https://jsonplaceholder.typicode.com/posts
 
 This API returns mock post data with title and body fields.
-
-## 📸 Screenshots
-Home Page | Detail Page | 
-![Screenshot](assets/listpage_getx.png) | ![Screenshot](assets/detailpage_getx.png) |
 
